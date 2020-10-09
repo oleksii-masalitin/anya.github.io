@@ -1,4 +1,0 @@
-Address type – P2PKH (starts with 1)
-Example – 15fPSaaCkHsJBBS5WQ7fStsztGNonPqbMn
-useful service https://bitref.com/15fPSaaCkHsJBBS5WQ7fStsztGNonPqbMn
-checksum https://learnmeabitcoin.com/technical/checksum
